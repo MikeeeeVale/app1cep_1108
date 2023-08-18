@@ -1,4 +1,5 @@
 import { LuHeart } from "react-icons/lu";
+import './style.css';
 
 function App() {
   return (
